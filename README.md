@@ -1,7 +1,7 @@
 # 🐍🌈 pinq - Complete Python Binding for Inquire
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="gallery/1.png" alt="1" style="flex: 1 1 auto; max-width: 100%; height: auto;">
   <img src="gallery/2.png" alt="2" style="flex: 1 1 auto; max-width: 100%; height: auto;">
