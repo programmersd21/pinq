@@ -1,0 +1,22 @@
+# Rust / Cargo
+target/
+Cargo.lock
+
+# Python / Maturin
+dist/
+*.egg-info/
+*.pyc
+__pycache__/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

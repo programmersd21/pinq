@@ -1,0 +1,21 @@
+[package]
+name = "pinq"
+version = "0.1.0"
+edition = "2021"
+description = "Complete Python binding for the Rust inquire CLI prompt library"
+authors = ["Soumalya Das"]
+license = "MIT"
+repository = "https://github.com/pro-grammer-SD/pinq"
+
+[lib]
+name = "pinq"
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = { version = "0.21", features = ["extension-module", "abi3-py38"] }
+inquire = { version = "0.7", features = ["date", "editor"] }
+chrono = "0.4"
+
+[profile.release]
+opt-level = 3
+lto = true
