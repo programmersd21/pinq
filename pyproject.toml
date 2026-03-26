@@ -26,6 +26,6 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/programmersd/pinq"
-Documentation = "https://github.com/programmersd/pinq"
-Repository = "https://github.com/programmersd/pinq"
+Homepage = "https://github.com/programmersd21/pinq"
+Documentation = "https://github.com/programmersd21/pinq"
+Repository = "https://github.com/programmersd21/pinq"

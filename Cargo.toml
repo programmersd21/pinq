@@ -5,7 +5,7 @@ edition = "2021"
 description = "Complete Python binding for the Rust inquire CLI prompt library"
 authors = ["Soumalya Das"]
 license = "MIT"
-repository = "https://github.com/programmersd/pinq"
+repository = "https://github.com/programmersd21/pinq"
 
 [lib]
 name = "pinq"
