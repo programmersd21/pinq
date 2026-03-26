@@ -26,6 +26,6 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pro-grammer-SD/pinq"
-Documentation = "https://github.com/pro-grammer-SD/pinq"
-Repository = "https://github.com/pro-grammer-SD/pinq"
+Homepage = "https://github.com/programmersd/pinq"
+Documentation = "https://github.com/programmersd/pinq"
+Repository = "https://github.com/programmersd/pinq"
